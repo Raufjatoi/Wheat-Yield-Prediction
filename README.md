@@ -13,7 +13,7 @@ This Deep Learning project predicts wheat crop yields based on three critical en
 This **Semester Project** was built in distinct phases:
 
 ### 1. 📊 Data Generation
-We synthetically generated a dataset mimicking real-world agricultural patterns.
+I synthetically generated a dataset mimicking real-world agricultural patterns.
 - **Inputs**: Rainfall (50-300mm), Temp (20-40°C), Fertilizer (20-100kg/ha).
 - **Target**: Yield calculated via a linear custom formula with added Gaussian noise.
 
