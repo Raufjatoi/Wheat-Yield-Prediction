@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import torch.nn as nn
 
-# Define the Model Structure again (must match training)
+# Model Structure
 class YieldPredictor(nn.Module):
     def __init__(self):
         super(YieldPredictor, self).__init__()
